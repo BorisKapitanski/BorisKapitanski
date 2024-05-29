@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @BorisKapitanski
 - 👀 I’m interested in learning new profession.  
-- 🌱 I’m currently learning JavaScript Fundamentals at SoftUni
-- 💞️ I’m looking to collaborate on basic task with JavaScript
 - 📫 How to reach me: boris911@abv.bg 
 
 <!---
